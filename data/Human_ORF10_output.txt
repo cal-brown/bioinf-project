@@ -1,0 +1,84 @@
+>QHZ00366 |ORF10 proteiin [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>YP_009725255 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIM47465 |ORF10 protein| partial [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFN--
+>QIM47484 |ORF10 protein| partial [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFN--
+>QIK50425 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIK50456 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIK50446 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIK50436 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87815 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87849 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87839 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87803 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87827 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QII87791 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIA98562 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>BCB15099 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIH55229 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIH45051 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIH45061 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIH45031 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIH45041 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>BCA87369 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>BCA87379 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIE07479 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIE07469 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIE07459 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIE07489 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIC53212 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIB84681 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIA98603 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIA98614 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QIA20053 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHZ00387 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU36842 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU36872 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU36852 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU36832 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU36862 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHU79182 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHR84457 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHN73818 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
+>QHI42199 |ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+MGYINVFAFPFTIYSLLLCRMNSRNYIAQVDVVNFNLT
