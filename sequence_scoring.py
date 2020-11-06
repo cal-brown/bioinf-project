@@ -16,6 +16,7 @@ def input_aligned_sequences(filename, print_on=False):
                 sequence = ""
             else:
                 sequence += line[:-1]
+    sequences.append(sequence)
     if print_on:
         print("")
     return sequences
